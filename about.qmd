@@ -1,0 +1,22 @@
+---
+title: "About"
+format: html
+---
+
+# About Twirly Bird
+
+Twirly Bird is a rotisserie chicken shop built on a simple idea: great food, done with care.
+
+We combine high-quality ingredients with proper technique to make something deeply satisfying. A bit nostalgic, a bit indulgent, totally comforting.
+
+### Who we are
+
+We're a founding team with deep roots in food, media, and data:
+
+- **Sophie Godwin** — Leiths-trained chef and bestselling cookbook author  
+- **Adam Bush** — Award-winning food writer and chef  
+- **Finn Tonry** — Menu developer and high-volume food systems expert  
+- **Brontë Mckeown** — Data strategist with a PhD in human psychology
+
+Together, we’re building a place that’s as good for its people as it is for its customers.
+

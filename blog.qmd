@@ -1,0 +1,12 @@
+---
+title: "Blog"
+format: html
+---
+
+# Twirly Bird Journal
+
+Welcome to the journal.
+
+Here we’ll be sharing what’s happening behind the scenes — from test kitchen notes to launch updates, menu deep dives, team stories, and future plans.
+
+Check back soon. First post coming soon!

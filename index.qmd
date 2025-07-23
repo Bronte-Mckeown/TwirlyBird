@@ -1,0 +1,23 @@
+:::{.center}
+<img src="images/twirly-logo.png" alt="Twirly Bird logo" width="300">
+:::
+
+---
+title: "Twirly Bird"
+format: html
+---
+
+# Welcome to Twirly Bird
+
+Twirly Bird is everyday comfort: rotisserie chicken done properly.
+
+We’re serving up nostalgic, flavour-packed food made with great ingredients and serious culinary skill — whether you're grabbing a quick healthy lunch or sitting down to feast.
+
+This isn’t reinventing the wheel. It’s just food you want to eat every day of the week.
+
+---
+
+## Coming soon to Spitalfields
+
+Sign up to hear when we launch 👇  
+📧 [contact@twirlybird.co.uk](mailto:contact@twirlybird.co.uk)
